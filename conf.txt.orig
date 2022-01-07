@@ -1,6 +1,0 @@
-hi this is conflict file
-<<<<<<< HEAD
-x=sai
-=======
-x=vishnu
->>>>>>> dev2
