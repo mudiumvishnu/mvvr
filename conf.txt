@@ -1,2 +1,2 @@
 hi this is conflict file
-x=vishnu
+x=bomma
