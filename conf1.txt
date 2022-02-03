@@ -1,3 +1,2 @@
 poll scm practice session
-hi this is conflict file
-x=bomma
+hi this is poll scm
