@@ -14,10 +14,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>com.companyname.automobile</groupId>
-      <artifactId>trucks</artifactId>
-    </dependency>
   </dependencies>
   <build>
     <finalName>trucks</finalName>
